@@ -2,7 +2,7 @@
   "generated_at": "2026-09-26T14:56:37Z",
   "publication_url": "https://www.damnang.com/",
   "subscribe_url": "https://www.damnang.com/subscribe",
-  "note": "Public-safe thread questions. No answer_full. Use paid_url button for the full Substack answer.",
+  "note": "Public thread questions with optional reviewed short answer_teaser excerpts. No full answer bodies. Use paid_url for the full Substack answer.",
   "stats": {
     "posts_scanned": 80,
     "threads_with_comments": 10,
@@ -52,7 +52,8 @@
       "source_type": "comment",
       "comment_date": "2026-08-04T16:27:29.996Z",
       "answer_date": "2026-08-04T19:54:40.142Z",
-      "thesis_one_liner": ""
+      "thesis_one_liner": "",
+      "answer_teaser": "That would be a much bigger escalation…"
     },
     {
       "id": "c-308011248",
@@ -94,7 +95,8 @@
       "source_type": "comment",
       "comment_date": "2026-08-04T14:15:30.665Z",
       "answer_date": "2026-08-04T14:41:58.534Z",
-      "thesis_one_liner": ""
+      "thesis_one_liner": "",
+      "answer_teaser": "I would view it as a company facing policy risk rather than as a clean beneficiary."
     },
     {
       "id": "c-307122122",
@@ -472,7 +474,8 @@
       "source_type": "comment",
       "comment_date": "2026-04-12T03:05:58.903Z",
       "answer_date": "2026-04-12T03:21:55.952Z",
-      "thesis_one_liner": ""
+      "thesis_one_liner": "",
+      "answer_teaser": "It is unlikely to be that extreme. SK hynix and Samsung are also fully committed to 3D DRAM…"
     },
     {
       "id": "c-242018674",
