@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:56:07Z",
+  "generated_at": "2026-09-28T16:11:27Z",
   "publication_url": "https://www.damnang.com/",
   "subscribe_url": "https://www.damnang.com/subscribe",
   "chat_url": "https://www.damnang.com/chat",
@@ -11,20 +11,36 @@
     "qa_pairs": 225,
     "unanswered": 187,
     "items_total": 412,
-    "public_items_total": 413,
+    "public_items_total": 414,
     "comment_count_sum_gated": 2,
     "comment_count_sum_open": 571,
     "cookie_used": true,
     "session_bundle_used": true,
     "chat_threads_scanned": 24,
     "chat_reply_items": 114,
-    "chat_teasers": 0,
+    "chat_teasers": 1,
     "chat_replies_unlocked": 19,
-    "chat_replies_gated": 0,
+    "chat_replies_gated": 1,
     "chat_cookie_used": true
   },
-  "count": 413,
+  "count": 414,
   "items": [
+    {
+      "id": "chat-thread-3e21708e-edbd-4af3-b1f4-6a169eea1f79",
+      "post_title": "Sharing a few takeaways from conversations with people working in Silicon Valley today. These include personal views an…",
+      "post_slug": "",
+      "post_url": "https://www.damnang.com/chat?post=3e21708e-edbd-4af3-b1f4-6a169eea1f79",
+      "paid_url": "https://www.damnang.com/chat?post=3e21708e-edbd-4af3-b1f4-6a169eea1f79",
+      "comment_count": 1,
+      "audience": "only_paid_replies",
+      "hint": "Substack Chat · 1 replies · 유료/구독자 Chat 스레드 · 답변은 Chat에서 · subscribe to read replies (bundle_empty)",
+      "subtitle_teaser": "Sharing a few takeaways from conversations with people working in Silicon Valley today. These include personal views and impressions shared during our discussi…",
+      "source_type": "chat_teaser",
+      "answered": null,
+      "comment_date": "2026-09-27T20:33:43.137Z",
+      "thread_id": "3e21708e-edbd-4af3-b1f4-6a169eea1f79",
+      "gated": true
+    },
     {
       "id": "chat-c5f46a27-cc63-4fb4-bf57-3f9c0ccfe413",
       "question": "Appreciate your willingness to evolve your opinion and for being transparent in sharing",
@@ -2151,8 +2167,8 @@
       "comment_date": "2026-08-19T09:22:20.656Z",
       "answer_date": "",
       "thesis_one_liner": "",
-      "audience": "only_paid",
-      "gated": true,
+      "audience": "",
+      "gated": false,
       "answer_hint": "",
       "thread_id": "1f45304b-b01a-4255-84af-a87a52386379"
     },
@@ -2169,8 +2185,8 @@
       "comment_date": "2026-08-19T08:09:40.879Z",
       "answer_date": "2026-08-19T09:21:10.728Z",
       "thesis_one_liner": "",
-      "audience": "only_paid",
-      "gated": true,
+      "audience": "",
+      "gated": false,
       "answer_hint": "That’s a good point. The first thing I would emphasize is that this is still just a market rumor an…",
       "thread_id": "1f45304b-b01a-4255-84af-a87a52386379"
     },
@@ -2187,8 +2203,8 @@
       "comment_date": "2026-08-19T07:53:47.177Z",
       "answer_date": "2026-08-19T07:54:39.118Z",
       "thesis_one_liner": "",
-      "audience": "only_paid",
-      "gated": true,
+      "audience": "",
+      "gated": false,
       "answer_hint": "Try to claude code and codex. Lots of way to do.",
       "thread_id": "1f45304b-b01a-4255-84af-a87a52386379"
     },
@@ -2205,8 +2221,8 @@
       "comment_date": "2026-08-19T07:47:06.802Z",
       "answer_date": "2026-08-19T07:51:25.234Z",
       "thesis_one_liner": "",
-      "audience": "only_paid",
-      "gated": true,
+      "audience": "",
+      "gated": false,
       "answer_hint": "I’m in the TMTB Slack too, and I’ve got AI alerts set up as well.\n\n@TMT Breakout",
       "thread_id": "1f45304b-b01a-4255-84af-a87a52386379"
     },
@@ -2223,8 +2239,8 @@
       "comment_date": "2026-08-19T07:46:35.411Z",
       "answer_date": "",
       "thesis_one_liner": "",
-      "audience": "only_paid",
-      "gated": true,
+      "audience": "",
+      "gated": false,
       "answer_hint": "",
       "thread_id": "1f45304b-b01a-4255-84af-a87a52386379"
     },
@@ -2241,8 +2257,8 @@
       "comment_date": "2026-08-19T07:20:41.798Z",
       "answer_date": "2026-08-19T07:26:46.681Z",
       "thesis_one_liner": "",
-      "audience": "only_paid",
-      "gated": true,
+      "audience": "",
+      "gated": false,
       "answer_hint": "Yes I think the EPS impact should still be fairly limited, but the buyback is clearly positive for…",
       "thread_id": "1f45304b-b01a-4255-84af-a87a52386379"
     },
@@ -2259,8 +2275,8 @@
       "comment_date": "2026-08-19T06:57:00.020Z",
       "answer_date": "",
       "thesis_one_liner": "",
-      "audience": "only_paid",
-      "gated": true,
+      "audience": "",
+      "gated": false,
       "answer_hint": "",
       "thread_id": "1f45304b-b01a-4255-84af-a87a52386379"
     },
@@ -2534,8 +2550,7 @@
       "thesis_one_liner": "",
       "audience": "everyone",
       "gated": false,
-      "answer_hint": "That would be a much bigger escalation. It would affect not just Chinese transceiver vendors, but p…",
-      "answer_teaser": "That would be a much bigger escalation…"
+      "answer_hint": "That would be a much bigger escalation. It would affect not just Chinese transceiver vendors, but p…"
     },
     {
       "id": "c-308011248",
@@ -2586,8 +2601,7 @@
       "thesis_one_liner": "",
       "audience": "everyone",
       "gated": false,
-      "answer_hint": "$AXTI has clear fundamental exposure to rising InP demand, but in the context of this specific news…",
-      "answer_teaser": "I would view [AXTI] as a company facing policy risk rather than as a clean beneficiary."
+      "answer_hint": "$AXTI has clear fundamental exposure to rising InP demand, but in the context of this specific news…"
     },
     {
       "id": "c-307846623",
@@ -6188,8 +6202,7 @@
       "thesis_one_liner": "",
       "audience": "everyone",
       "gated": false,
-      "answer_hint": "It is unlikely to be that extreme. SK hynix and Samsung are also fully committed to 3D DRAM. As you…",
-      "answer_teaser": "It is unlikely to be that extreme. SK hynix and Samsung are also fully committed to 3D DRAM…"
+      "answer_hint": "It is unlikely to be that extreme. SK hynix and Samsung are also fully committed to 3D DRAM. As you…"
     },
     {
       "id": "c-242018674",
