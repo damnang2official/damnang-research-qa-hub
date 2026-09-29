@@ -1,0 +1,19 @@
+﻿id,category_id,category_label,question,thesis_one_liner,answer_summary,paid_url,free_url,expert_call_url,source_type,tickers,updated_at
+q-sf-01,stock-framework,그래서 뭐가 사야 돼?,옵틱스 3종만 찍어줘.,종목명 대신 레이어·가격결정력·Falsify 조건으로 순위를 매긴다.,공개: 프레임워크 글부터. 풀 루브릭·비교표는 유료.,https://www.damnang.com/p/how-i-invest-in-ai-infrastructure,https://www.damnang.com/p/how-i-invest-in-ai-infrastructure,,comment,,2026-09-26
+q-sf-02,stock-framework,그래서 뭐가 사야 돼?,AAOI / CRDO / TSEM 중 하나만 고르면?,"같은 루브릭으로 레이어를 비교하고, 단일 tip은 내지 않는다.",,https://www.damnang.com/subscribe,,,comment,"AAOI,CRDO,TSEM",2026-09-26
+q-sf-03,stock-framework,그래서 뭐가 사야 돼?,인덱스에 뭐 넣었어?,인덱스가 아니라 병목 맵·스코어카드로 ‘어디에 돈이 남나’를 본다.,,https://www.damnang.com/subscribe,,,comment,,2026-09-26
+q-cx-01,capex,CapEx 언제까지 가나,오픈 모델이 싸지면 칩을 덜 사지 않나?,CapEx 붕괴는 모델이 싸진 때가 아니라 수익화·워크로드 전환 실패에서 온다.,,https://www.damnang.com/p/the-open-source-ai-era-will-hyperscalers,https://www.damnang.com/p/the-open-source-ai-era-will-hyperscalers,,comment,"MSFT,GOOGL,AMZN",2026-09-26
+q-cx-02,capex,CapEx 언제까지 가나,CapEx가 이 테마의 tell인가?,"CapEx는 tell 후보지만, deployment clock(전력·부지)과 같이 봐야 한다.",,https://www.damnang.com/subscribe,https://www.damnang.com/p/the-ai-investment-map-from-tokens,,comment,,2026-09-26
+q-cx-03,capex,CapEx 언제까지 가나,소프트·에이전트가 하드웨어 CapEx를 살리나?,하드웨어를 살리는 건 앱 서사가 아니라 유닛화 가능한 워크로드 전환이다.,,https://www.damnang.com/subscribe,,,ama,,2026-09-26
+q-hm-01,memory-hbm,메모리·HBM 사이클,메모리 가격이 2028까지 가나?,사이클 가정은 날짜가 아니라 체크포인트(공급·밀도·수요)로 검증한다.,,https://www.damnang.com/p/is-the-2028-memory-downcycle-real,,,comment,MU,2026-09-26
+q-hm-02,memory-hbm,메모리·HBM 사이클,8hi→4hi면 베어인가?,밀도 peak 이후 가치는 층수가 아니라 계층·연결·공급 제약으로 이동한다.,,https://www.damnang.com/subscribe,,,ama,,2026-09-26
+q-hm-03,memory-hbm,메모리·HBM 사이클,HBM vs DDR/NAND 중 AI 스케일 수혜는?,워크로드가 어느 메모리 계층을 재가격화하는지부터 본다.,,https://www.damnang.com/subscribe,,,ama,,2026-09-26
+q-ch-01,china,중국이 따라잡으면?,CXMT는 위협인가 환상인가?,중국 점유 손실과 글로벌 고난도 공정 모트는 분리해서 본다.,,https://www.damnang.com/p/is-cxmt-a-threat-or-an-illusion,,,comment,,2026-09-26
+q-ch-02,china,중국이 따라잡으면?,중국 HARC etch가 Lam을 깎나?,장비 자립 스토리와 글로벌 선단 수율·고객 자격은 다른 시계다.,,https://www.damnang.com/subscribe,,,comment,LRCX,2026-09-26
+q-ch-03,china,중국이 따라잡으면?,"3D DRAM은 commodity만인가, HBM까지인가?",제품 로드맵과 고객 qualification을 분리해 범위를 좁힌다.,,https://www.damnang.com/subscribe,,,ama,,2026-09-26
+q-op-01,optics-cpo,빛·CPO는 언제 돈 되나,CPO는 양산이야 샘플이야?,돈이 남는 곳은 모듈 브랜드가 아니라 희소 레이어·수율·예약계약이다.,,https://www.damnang.com/subscribe,,,ama,"LITE,COHR,FN",2026-09-26
+q-op-02,optics-cpo,빛·CPO는 언제 돈 되나,laser/InP vs 모듈 누가 마진?,가격결정력은 브랜드가 아니라 희소 입력과 수율에 있다.,,https://www.damnang.com/subscribe,,,comment,"LITE,COHR",2026-09-26
+q-op-03,optics-cpo,빛·CPO는 언제 돈 되나,test/yield 병목은 어디?,옵틱스 병목은 종종 칩이 아니라 test·yield·패키징에 있다.,Expert Call 근거는 유료 브리핑.,https://www.damnang.com/subscribe,,https://www.damnang.com/subscribe,expert_call,,2026-09-26
+q-nc-01,nonchip,병목이 칩이 아니면?,전력/변압기 병목은 언제 풀리나?,deployment clock과 shipment clock을 같이 봐야 병목이 보인다.,,https://www.damnang.com/subscribe,https://www.damnang.com/p/ai-datacenter-power-investment-map,,notes,,2026-09-26
+q-nc-02,nonchip,병목이 칩이 아니면?,Marvell custom vs interconnect 뭐가 입증됐나?,실적은 스토리가 아니라 체크포인트(고객·양산·마진)로 증명한다.,,https://www.damnang.com/subscribe,,,comment,MRVL,2026-09-26
+q-nc-03,nonchip,병목이 칩이 아니면?,네오클라우드 1사 투자 케이스는?,TCO·전력·GPU 조달을 한 장에 놓고 비교한다.,,https://www.damnang.com/subscribe,,,ama,,2026-09-26
